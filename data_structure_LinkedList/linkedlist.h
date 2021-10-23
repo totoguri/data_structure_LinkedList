@@ -1,3 +1,7 @@
+// Data Structure.
+// Linked List for C
+// 23, Oct, 2021
+
 #ifndef _LINKEDLIST_
 #define _LINKEDLIST_
 
